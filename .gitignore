@@ -2,3 +2,6 @@
 .Rhistory
 .RData
 .Ruserdata
+Demo.Rproj
+*.rds
+data/*.csv
